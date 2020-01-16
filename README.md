@@ -1,3 +1,1 @@
-# Blog Figure Bed
-
-本分支用作博客图床
+# Figure Bed for Blog
