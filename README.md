@@ -1,3 +1,3 @@
-# Figure Bed
+# Blog Figure Bed
 
-本仓库用来做图床
+本分支用作博客图床
